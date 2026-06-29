@@ -1,0 +1,32 @@
+{
+  "citations": [
+    "[emarketer.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDNFM2FhM0plNmdsMHhSb1FLVXp5bDNrQ0NzZDNLWnFVM2JlX3Z0cDR5UThOZVg4TXpZRDU3cFpUdGljaDFCSFR1UzFIWmtYTm02WEl4THpENlVpQ0N3T2tELTdSQ1dGYzRoWkZlOUFnOVJnY2xLSUJDNy1tdGRlVjRhLXJ3dV9KVm1GQU9kYmw3ZGUwaVNpVHFjU3J2Y2NKRUNDUDB4V21oakpUd3NTbDNoZjRfMWs?oc=5)",
+    "[tech-times.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1lEbWRmc2dvY0dBVWpfeEIyUG9QbVdISkMxY25ObkxQYld1cTZFel9uM1ZHZEhsSUhfMU16X09qWjM0TDFHdE41aUF0TTV0R0ZfX0E0cnRFUWg5bS1PZV9yaUNxVnhrU1VZam1wNmZScG05SE1fWGk3YU5DSGM4X0tPeHNlc2tNcHlMbFF0djFIY19oZjk1WWZhS2lsMUkwTnZReGthUTBRWlEyM3FianladTlzRTJqWVBScGhTQVlaTGpzWU1Yb2RDVGZJWFM2NWxN?oc=5)",
+    "[alm.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw?oc=5)",
+    "[cryptobriefing.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBuLXRJc19tNllvUzJrVlFmaVd4ckpBdUhhNFgyZXBycmlKTGJ2V2NyYUlFX3VManpuQW9ncXZtOFFhbmxWTHh2LXhjMWJKcDZaN1h4RS1UcE90aDlJeGpDY3pzMGg5UjhBd3AwQ3Y3QmFrTjVha0xZbmhQZw?oc=5)",
+    "[bw-businessworld.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3k2YWR0UUZValVWRTMybEFDOHptU3RETnFDOFJhaEV4VzlSQnlwZTRPUjFZcDFVLXR0NVlPNnF3ME1wTnhZQXJtcWt4WEoweFJKaG50ZG11bmVYMml6MV92RlluWW83UEJMUkIyWm1zTW5aUWRMQzQ5aG1CemNOSGp0M2QwTlhpOVVscENLOC16YVNSdFBYbUZodFBlLS1xZ05RR0tiLWl4dEpKQTVIQ1RGN290WEkybHZQN1NvdmJFUS1sTHc?oc=5)"
+  ],
+  "design_plan": "rng=42; hero_width=1120; aida=pass; bento_density=grid-auto-flow:dense; contrast=ink_on_paper_ok; labels=all_competitors_present",
+  "generated_at": "2026-06-29T20:10:01.779491+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A refreshed editorial brief for buyers and builders tracking personal AI agents \u2014 covering Gemini\u2019s expansion into computer use, Grok\u2019s private beta momentum, Siri\u2019s generational upgrade, and the broader shift toward assistants that act, not just chat. We position Super as the sharper alternative for repeated computer-use workflows through its reusable computer-use cache."
+}
